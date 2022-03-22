@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="biblioteca.xsl"?>
-<biblioteca>
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="biblioteca.xsd">
   <libro>
     <foto>miki.webp</foto>
-    <titulo>Miki con sueño</titulo>
+    <titulo>Miki con m de Maskom</titulo>
     <autor>Antonio Jesus Rodriguez</autor>
     <fechaPublicacion año="1976"/>
   </libro>
   <libro>
     <foto>senda.webp</foto>
-    <titulo>Senda la Dormilona</titulo>
+    <titulo>Senda in da club</titulo>
     <autor fechaNacimiento="28/03/1936">Antonio Jesus Rodriguez</autor>
     <fechaPublicacion año="1973"/>
   </libro>
   <libro>
     <foto>summer.webp</foto>
-    <titulo>Summer en summer</titulo>
+    <titulo>Summer a 40 grados</titulo>
     <autor fechaNacimiento="28/03/1936">Antonio Jesus Rodriguez</autor>
     <fechaPublicacion año="1969"/>
   </libro>
